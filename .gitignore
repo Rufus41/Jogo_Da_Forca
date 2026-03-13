@@ -1,0 +1,17 @@
+.classpath.xml
+.vscode/
+pom.xml
+src/tp1/TesteBibliotecaParteB.java
+src/tp1/TesteBibliotecaParteC.java
+src/tp1_revisoes/
+ParteD_Jogo_Da_forca(parte1)/
+ParteD_Jogo_Da_forca(parte2)/
+ParteD_Jogo_Da_forca(parte3)/
+ParteD_Jogo_Da_forca(parte4)/
+ParteD_Jogo_Da_forca(parte5)/
+ParteD_Jogo_Da_forca(parte6)/
+ParteD_Jogo_Da_forca(parte7)/
+ParteD_Jogo_Da_forca(parte8)/
+ParteD_Jogo_Da_forca(parte9)/
+src/tp1/library/
+*.class
